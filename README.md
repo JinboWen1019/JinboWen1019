@@ -3,6 +3,9 @@ Hi, I'm Jinbo Wen 😃. This is my profile [jinbowen1019.github.io](https://jinb
 ## 💬 Personal Information
 🔭 A Ph.D. Student at City University of Hong Kong.
 
+## 📃 Research Directions
+AI Agent; Large Model; Deep Reinforcement Learning; Wireless Network.
+
 ## 🌱 Languages and Tools
 <table>
 <tbody>
